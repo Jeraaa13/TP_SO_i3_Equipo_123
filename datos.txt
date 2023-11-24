@@ -1,2 +1,4 @@
 Luciano Vega, IP: 192.168.0.54, 09:33
 Yanina Ponce, IP: 192.168.100.1 09:59
+Gerardo Toranzo, IP: 192.168.0.211 10:05
+
