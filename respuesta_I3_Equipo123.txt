@@ -6,3 +6,13 @@ BETA:
   git merge Vega
   git commit -m "Merge de la rama Vega"
   git push origin main
+
+  GAMMA:
+d- No quedan con datos actualizados
+e- Tuvimos problemas porque cuando beta hizo el segundo merge se olvido de hacer un pull con lo que alfa y gamma habian agregado y hizo merge de cosas que ya estaban pero lo supimos resolver
+f- git pull
+  git switch Toranzo
+  echo "Luciano Vega, 10:22, $(ipconfig)" >> beta.txt
+  git add .
+  git commit -m "Gamma, agrego el ipconfig, nombre, apellido y hora a beta.txt"
+  git push origin Toranzo
