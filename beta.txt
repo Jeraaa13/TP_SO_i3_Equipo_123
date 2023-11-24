@@ -37,3 +37,48 @@ Adaptador de Ethernet Ethernet 2:
    Direcciï¿½n IPv4. . . . . . . . . . . . . . : 192.168.56.1
    Mï¿½scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
+Yanina Ponce, 10:29,  
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::648c:5099:56c4:f9eb%49
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.23.64.1
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ac34:2b91:fee:5bf4%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 11:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 12:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:9017:b060:29a3:353b:a602:31d3
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:9017:b060:9d0:47c2:4206:e58a
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7821:8208:7bc3:5dd0%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.7
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.100.1
