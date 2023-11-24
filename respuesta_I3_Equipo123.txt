@@ -1,8 +1,8 @@
 BETA:
 
-1-el master quedo con CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt, README.md, beta.txt y datos.txt
-2-Si, pude ver todos los cambios que se realizaron
-3-git checkout main #Me cambio a la main branch
+a-el master quedo con CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt, README.md, beta.txt y datos.txt
+b-Si, pude ver todos los cambios que se realizaron
+c-git checkout main #Me cambio a la main branch
   git merge Vega
   git commit -m "Merge de la rama Vega"
   git push origin main
@@ -16,3 +16,11 @@ f- git pull
   git add .
   git commit -m "Gamma, agrego el ipconfig, nombre, apellido y hora a beta.txt"
   git push origin Toranzo
+
+ALFA:
+h-git pull
+git switch Toranzo
+echo "Yanina Ponce, 10:28, $(ipconfig)" >> beta.txt
+git add .
+git commit -m "modifico beta.txt agregando nombre apellido y ipcofig
+git push origin Toranzo
